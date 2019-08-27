@@ -1,9 +1,0 @@
-[frontends]
-frontend1.e657.internal ansible_ssh_host=frontend1.e657.example.opentlc.com
-
-[apps]
-app1.e657.internal ansible_ssh_host=app1.e657.example.opentlc.com
-app2.e657.internal ansible_ssh_host=app1.e657.example.opentlc.com
-
-[appdb]
-appdb1.e657.internal ansible_ssh_host=appdb1.e657.example.opentlc.com
